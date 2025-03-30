@@ -12,7 +12,7 @@ Este repositório contém a resolução do **Teste de Banco de Dados** proposto,
 
 ## ✅ Requisitos Atendidos
 
-### 🧰 Preparação de Dados (Script Adicional)
+### Preparação de Dados (Script Adicional)
 
 - **3.1** Download dos arquivos dos últimos 2 anos do repositório público:
   - `https://dadosabertos.ans.gov.br/FTP/PDA/demonstracoes_contabeis/`
@@ -42,7 +42,7 @@ Este repositório contém a resolução do **Teste de Banco de Dados** proposto,
 
 ### 📊 Análises Analíticas (`analytic_query.sql`)
 
-- [x] **3.5** Duas queries analíticas foram desenvolvidas:
+- **3.5** Duas queries analíticas foram desenvolvidas:
 
 1. **Top 10 operadoras com maiores despesas em sinistros médico-hospitalares (último trimestre)**
 2. **Top 10 operadoras com maiores despesas em sinistros médico-hospitalares (último ano)**
